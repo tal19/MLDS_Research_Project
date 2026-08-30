@@ -7,5 +7,6 @@ The following files are included in this repository:
 * preliminary.ipynb - Imports data, exploratory analysis and extraction of post-pass metrics.
 * metric_validation.ipynb - Metric validation analysis and associated plots.
 * metric_analysis.ipynb - Analysis of post-pass metrics including consolidated metric cluster analysis.
+* project_functions.py - Custom functions used for plotting and analysing post-pass movements.
 
 The following packages are required: `databallpy`, 

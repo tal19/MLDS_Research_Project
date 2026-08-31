@@ -9,4 +9,4 @@ The following files are included in this repository:
 * metric_analytics.ipynb - Analysis of post-pass metrics including consolidated metric cluster analysis.
 * project_functions.py - Custom functions used for plotting and analysing post-pass movements.
 
-The following packages are required: `DataBallPy`, `Floodlight`, `NumPy`, `Pandas`, `scikit-learn`, `kmedoids`, `gower`
+The following packages are required: `DataBallPy`, `Floodlight`, `NumPy`, `Pandas`, `scikit-learn`, `kmedoids`, `gower`, `scikit_posthocs`

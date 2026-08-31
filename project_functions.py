@@ -26,6 +26,7 @@ from sklearn.manifold import TSNE
 from sklearn.covariance import MinCovDet
 from scipy.stats import multivariate_normal
 import gower
+import pandas
 
 
 def import_match_data(game_id, path):
